@@ -1,0 +1,25 @@
+#main_title{
+    text-align:center;
+    color:#ffe6e6;
+    padding:20px;
+    letter-spacing:2px;
+    font-weight:500;
+    background-color:rgb(85, 85, 184);
+
+}
+.box1 h2{
+    float: left;
+}
+.box1 button{
+    float:right;
+
+}
+.container{
+    margin-top:100px;
+    background-color:azure;
+}
+#b
+{
+    background-image:url('C:\xampp\htdocs\crud\backgroung image.jpg') ;
+}
+
